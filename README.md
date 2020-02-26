@@ -26,6 +26,8 @@
 - [ ] License
 - [x] pylint
 - [x] black
+- [x] flake8
+- [x] pre-commit
 - [ ] docs
 - [ ] Sentry.io
 - [ ] Coverage (codecov.io)
